@@ -1,3 +1,3 @@
-# my 1st repo
+# My 1st repo
 
 my 1st repo for AIB 
